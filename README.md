@@ -23,5 +23,6 @@ data/documents/
 
 ## Run
 
-python main.py
+python g.py
+streamlit run app.py
 
